@@ -1,2 +1,2 @@
 # Facebook-Live-Prediction
-Machine Learning project to predict the performance of Facebook Live posts based on features such as reactions, comments, shares, and other engagement metrics.
+This project uses Machine Learning to analyze Facebook Live post data and predict post performance. The dataset contains engagement-related features such as reactions, comments, shares, and other metrics. Data preprocessing, exploratory data analysis, model training, and prediction are performed using Python and Machine Learning techniques.
